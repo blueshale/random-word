@@ -1,0 +1,28 @@
+{
+  "name": "random-word",
+  "version": "0.0.1",
+  "devDependencies": {
+	"should":"*"
+ },
+  "description": "return random word string.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brighthas/random-word.git"
+  },
+  "keywords": [
+    "random",
+    "word"
+  ],
+  "author": "brighthas@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brighthas/random-word/issues"
+  }
+}
